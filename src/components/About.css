@@ -1,0 +1,22 @@
+.about-container {
+    width: 80%;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  .about-container h1 {
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .about-container p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+  }
+  
